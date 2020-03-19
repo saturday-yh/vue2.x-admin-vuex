@@ -1,4 +1,4 @@
-# vue2-management-platform（请点右上角star）
+（请点右上角star）
 vue2.0 + elementUI 后台管理平台
 vuex demo 基本使用方法
 # 概述
@@ -18,7 +18,7 @@ vuex demo 基本使用方法
   "mockjs": "^1.0.1-beta3", //模拟数据使用
      
      更新：vue已升级至2.5.X，elementUI已升级至2.2，其他相关依赖也已升级，
-     具体请参考https://github.com/suweiteng/vue2-management-platform/blob/master/package.json
+    
      
     
     
